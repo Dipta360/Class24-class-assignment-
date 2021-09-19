@@ -243,7 +243,7 @@ ul.our-primary-menu li ul li{
 .card-body:hover{
     background: #3265ed;
     color: #fff;
-    transform: scale(1.06);
+    transform: scaleY(1.06);
     border-radius: 5px;
 }
 

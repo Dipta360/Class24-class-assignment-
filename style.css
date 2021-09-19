@@ -341,8 +341,8 @@ ul.our-primary-menu li ul li{
 
 .animation-btn a::after{
     content: "";
-    height: 95%;
-    width: 95%;
+    height: 100%;
+    width: 100%;
     position: absolute;
     top: 0;
     left: 0;
@@ -354,8 +354,8 @@ ul.our-primary-menu li ul li{
 
 .animation-btn a::before{
     content: "";
-    height: 95%;
-    width: 95%;
+    height: 100%;
+    width: 100%;
     position: absolute;
     top: 0;
     left: 0;
